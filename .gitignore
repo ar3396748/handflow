@@ -1,0 +1,47 @@
+# Node.js & Express
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Local File Uploads (Multer)
+uploads/
+images/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Personal biometric data
+hand_profile.json
+
+# Screenshots output (user-generated, not source code)
+screenshots/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Environment variables
+.env
+.env.local
