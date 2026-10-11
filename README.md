@@ -22,7 +22,7 @@ HandFlow is a real-time, vision-based desktop control application for Windows. I
 
 ---
 
-## Table of Contents are below:
+## Table of Contents:
 
 - [Demo](#demo)
 - [Features](#features)
