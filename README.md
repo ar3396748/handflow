@@ -87,7 +87,7 @@ HandFlow is a real-time, vision-based desktop control application for Windows. I
 
 ---
 
-## Project Structure
+## Project Structure:
 
 ```
 HandFlow/
