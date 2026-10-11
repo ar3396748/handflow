@@ -22,7 +22,7 @@ HandFlow is a real-time, vision-based desktop control application for Windows. I
 
 ---
 
-## Table of Contents:
+## Table of Contents
 
 - [Demo](#demo)
 - [Features](#features)
@@ -57,7 +57,7 @@ HandFlow is a real-time, vision-based desktop control application for Windows. I
 
 ---
 
-## Features
+## Features list:
 
 - **16 distinct gestures** — 13 single-hand + 3 dual-hand static poses, each mapped to a Windows automation action
 - **Edge-triggered dispatch** — temporal majority voting buffer (6/8 frame agreement) eliminates spurious activations
