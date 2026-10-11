@@ -48,7 +48,7 @@ HandFlow is a real-time, vision-based desktop control application for Windows. I
 
 ---
 
-## Demooo
+## Demo:
 
 > [!NOTE]
 > **[Insert screenshot or GIF of the gesture control HUD in action here]**
